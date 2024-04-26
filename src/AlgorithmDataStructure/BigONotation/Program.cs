@@ -16,4 +16,3 @@ Console.WriteLine(bigOExamples.ExampleO2n(33));
 
 
 
-Console.WriteLine("Hello, World!");
